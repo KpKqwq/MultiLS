@@ -35,7 +35,14 @@ Results on TSAR2022 multilingual LS shared task
 ![](PGLS.jpg)
 
 # Futher Update :rocket:
-We will release our new LLM-based LS method PromLS soonly.
+## PromLS: LLM-based LS method
+sh_EN_LS.promls.sh
+sh_ES_LS.promls.sh
+sh_PT_LS.promls.sh
+## MultiLSPG: multi-word LS method
+sh_multiword_LS.sh
+## MultiPromLS: LLM-based multi-word LS method
+sh_multiword_LS.promls.sh
 
 # Citation
 <!-- Please cite as: -->
